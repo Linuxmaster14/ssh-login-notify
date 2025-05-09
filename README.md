@@ -50,11 +50,11 @@ sudo systemctl restart ssh-login-notify.service
 
 You can receive notifications in several ways:
 
-1. Web browser: Visit https://ntfy.sh/your-topic-name
+1. **Web browser:** Visit https://ntfy.sh/your-topic-name
 
-2. Mobile app: Download the ntfy app for Android or iOS and subscribe to your topic
+2. **Mobile app:** Download the ntfy app for [Android](https://play.google.com/store/apps/details?id=io.heckel.ntfy) or [iOS](https://apps.apple.com/us/app/ntfy/id1625396347) and subscribe to your topic
 
-3. Command line: `curl -s https://ntfy.sh/your-topic-name/json`
+3. **Command line:** `curl -s https://ntfy.sh/your-topic-name/json`
 
 ## Manual Installation
 
