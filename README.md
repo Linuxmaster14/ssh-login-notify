@@ -24,7 +24,7 @@ A simple, lightweight script that sends notifications via [ntfy.sh](https://ntfy
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ssh-login-notify.git
+git clone https://github.com/linuxmaster14/ssh-login-notify.git
 cd ssh-login-notify
 ```
 
